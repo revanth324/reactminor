@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1{
+  font-family: 'Roboto', sans-serif;
+  color:green;
+  }
+  
+  .active{
+    color:red;
+    
+  }
+  a{
+    color:white;
+    text-decoration: none;
+    margin:40px;
+    padding:6px 10px;
+  }
+  .box{
+    width:100%;
+    padding:30px 20px;
+    background-color: black;
+    text-align:center;
+    font-family:arial;
+    font-size:1.4em;
+  }
